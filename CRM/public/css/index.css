@@ -1,0 +1,11 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+.container{
+    width: 600px;
+    margin: 60px auto;
+}
+.table-bordered{
+    border: 3px solid lime;
+}
